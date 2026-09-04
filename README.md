@@ -21,51 +21,74 @@ Right now, I'm building automation for physical production and exploring how AI 
 | **Agentic AI & RAG** | AI assistants, knowledge retrieval, tool use, evaluation, and production monitoring |
 | **Backend engineering** | APIs, distributed services, system integrations, background processing, and data workflows |
 | **CAD/CAM automation** | CAD integrations, nesting, G-code generation, and manufacturing workflow automation |
-| **Applied machine learning** | Predictive systems, data preparation, model integration, and decision-support tools |
+| **Blockchain & Web3** | Wallet authentication, on-chain integrations, transaction processing, and blockchain analytics |
+| **Applied machine learning** | Classical ML workflows, data preparation, model integration, and decision-support tools |
 
 ## Tech stack
 
 ### Backend & data
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+<p>
+  <img alt="Python" title="Python" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+  <img alt="FastAPI" title="FastAPI" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg">
+  <img alt="Django" title="Django" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg">
+  <img alt="Flask" title="Flask" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg">
+  <img alt="PostgreSQL" title="PostgreSQL" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+  <img alt="Redis" title="Redis" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg">
+  <img alt="SQLAlchemy" title="SQLAlchemy" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg">
+  <img alt="Celery" title="Celery" height="42" src="https://cdn.simpleicons.org/celery/37814A">
+</p>
 
 ### AI engineering
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+<p>
+  <img alt="OpenAI" title="OpenAI" height="42" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/openai.svg">
+  <img alt="LangChain" title="LangChain / LangGraph" height="42" src="https://cdn.simpleicons.org/langchain/1C3C3C/FFFFFF">
+  <img alt="PyTorch" title="PyTorch" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg">
+  <img alt="scikit-learn" title="scikit-learn" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg">
+</p>
+
+### Blockchain & Web3
+
+<p>
+  <img alt="Ethereum" title="Ethereum" height="42" src="https://cdn.simpleicons.org/ethereum/3C3C3D">
+  <strong>Web3.py</strong>
+</p>
 
 ### Cloud & delivery
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+<p>
+  <img alt="AWS" title="Amazon Web Services" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  <img alt="Google Cloud" title="Google Cloud" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg">
+  <img alt="Docker" title="Docker" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
+  <img alt="GitHub Actions" title="GitHub Actions" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg">
+  <img alt="Nginx" title="Nginx" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg">
+</p>
 
 ## Certifications & credentials
 
-<p>
-  <a href="https://www.linkedin.com/in/yurasblv/details/certifications/">
-    <img alt="AWS Certified AI Practitioner" src="https://img.shields.io/badge/AWS_Certified-AI_Practitioner-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/yurasblv/details/certifications/">
-    <img alt="AWS Certified Cloud Practitioner" src="https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/yurasblv/details/certifications/">
-    <img alt="AWS Agentic AI Demonstrated" src="https://img.shields.io/badge/AWS-Agentic_AI_Demonstrated-8B5CF6?style=for-the-badge&logo=amazonwebservices&logoColor=white">
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/yurasblv/details/certifications/">
+        <img width="150" alt="AWS Certified AI Practitioner" src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png">
+      </a>
+      <br><sub><strong>AWS Certified AI Practitioner</strong></sub>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/yurasblv/details/certifications/">
+        <img width="150" alt="AWS Certified Cloud Practitioner" src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png">
+      </a>
+      <br><sub><strong>AWS Certified Cloud Practitioner</strong></sub>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/yurasblv/details/certifications/">
+        <img width="150" alt="AWS Agentic AI Demonstrated" src="https://images.credly.com/images/6f40bf38-1725-40d8-99a2-f6bb1bafec0e/blob">
+      </a>
+      <br><sub><strong>AWS Agentic AI Demonstrated</strong></sub>
+    </td>
+  </tr>
+</table>
 
 ## Current interests
 
