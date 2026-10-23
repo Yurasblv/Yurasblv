@@ -81,12 +81,6 @@ Right now, I'm building automation for physical production and exploring how AI 
       </a>
       <br><sub><strong>AWS Certified Cloud Practitioner</strong></sub>
     </td>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/yurasblv/details/certifications/">
-        <img width="150" alt="AWS Agentic AI Demonstrated" src="https://images.credly.com/images/6f40bf38-1725-40d8-99a2-f6bb1bafec0e/blob">
-      </a>
-      <br><sub><strong>AWS Agentic AI Demonstrated</strong></sub>
-    </td>
   </tr>
 </table>
 
