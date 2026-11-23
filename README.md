@@ -58,7 +58,7 @@ Right now, I'm building automation for physical production and exploring how AI 
 ### Cloud & delivery
 
 <p>
-  <img alt="AWS" title="Amazon Web Services" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  <img alt="AWS" title="Amazon Web Services" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
   <img alt="Google Cloud" title="Google Cloud" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg">
   <img alt="Docker" title="Docker" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
   <img alt="GitHub Actions" title="GitHub Actions" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg">
@@ -71,12 +71,6 @@ Right now, I'm building automation for physical production and exploring how AI 
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/yurasblv/details/certifications/">
-        <img width="150" alt="AWS Certified Solutions Architect – Associate" src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png">
-      </a>
-      <br><sub><strong>AWS Certified Solutions Architect – Associate (SAA-C03)</strong></sub>
-    </td>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/yurasblv/details/certifications/">
         <img width="150" alt="AWS Certified AI Practitioner" src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png">
       </a>
       <br><sub><strong>AWS Certified AI Practitioner</strong></sub>
@@ -86,6 +80,14 @@ Right now, I'm building automation for physical production and exploring how AI 
         <img width="150" alt="AWS Certified Cloud Practitioner" src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png">
       </a>
       <br><sub><strong>AWS Certified Cloud Practitioner</strong></sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://www.linkedin.com/in/yurasblv/details/certifications/">
+        <img width="150" alt="AWS Certified Solutions Architect – Associate" src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png">
+      </a>
+      <br><sub><strong>AWS Certified Solutions Architect – Associate (SAA-C03)</strong></sub>
     </td>
   </tr>
 </table>
