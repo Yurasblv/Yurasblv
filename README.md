@@ -91,10 +91,3 @@ Right now, I'm building automation for physical production and exploring how AI 
     </td>
   </tr>
 </table>
-
-## Current interests
-
-- Production-ready agentic systems with clear observability and fallback behavior
-- RAG quality: retrieval, reranking, faithfulness, correctness, relevance, and completeness
-- Scalable Python backends and event-driven architectures
-- Practical cloud AI with AWS Bedrock and managed LLM platforms
