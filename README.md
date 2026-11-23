@@ -71,6 +71,12 @@ Right now, I'm building automation for physical production and exploring how AI 
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/yurasblv/details/certifications/">
+        <img width="150" alt="AWS Certified Solutions Architect – Associate" src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png">
+      </a>
+      <br><sub><strong>AWS Certified Solutions Architect – Associate (SAA-C03)</strong></sub>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/yurasblv/details/certifications/">
         <img width="150" alt="AWS Certified AI Practitioner" src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png">
       </a>
       <br><sub><strong>AWS Certified AI Practitioner</strong></sub>
